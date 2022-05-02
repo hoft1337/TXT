@@ -1,0 +1,6 @@
+first name - Dmitry
+second name - Busel
+age - 27
+number of pets - two cats
+desired salary - 700 dollars
+
